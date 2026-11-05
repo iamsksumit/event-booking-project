@@ -79,7 +79,7 @@ The MySQL database has 35 tables. The main ones are:
  
 ## Documentation
  
-The project synopsis (use case, sequence and data flow diagrams, ER diagram, database design and modules) is provided as `Event_Booking_Platform_Synopsis_15pages.docx`.
+The project synopsis (use case, sequence and data flow diagrams, ER diagram, database design and modules) is provided as `BTech_Capstone_Project_Documentation_Vinit_Gupta.pdf`.
  
 ## Author
  
