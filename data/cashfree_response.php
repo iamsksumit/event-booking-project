@@ -19,11 +19,7 @@ $orderId = $_GET['order_id'] ?? '';
 if (!$orderId || $orderId !== $order['order_id']) {
     header("Location: {$bookNowUrl}?status=invalid");
     exit;
-}
 
-// Cashfree credentials
-$appId = '1081617b360f85d26552c7bd15b7161801';
-$secretKey = 'cfsk_ma_prod_adf16439cb74aad7126fba41fa66565c_b4fabb60';
 
 // Verify payment
 $verifyUrl = "https://api.cashfree.com/pg/orders/$orderId";
