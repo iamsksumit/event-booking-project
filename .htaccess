@@ -1,0 +1,142 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+
+# =========================================================
+# BLOCK SENSITIVE FILES (never serve these over the web)
+# =========================================================
+<FilesMatch "(^\.|\.(env|log|sql|bak|ini|sh)$|^composer\.(json|lock)$)">
+    Require all denied
+</FilesMatch>
+RewriteRule ^(\.git|vendor)(/|$) - [F,L]
+
+# =========================================================
+# CANONICAL DOMAIN
+# HTTPS + NON-WWW
+# =========================================================
+# 1) Strip WWW first (and force HTTPS at the same time).
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+
+# 2) Anything still on plain HTTP gets bumped to HTTPS.
+#    The X-Forwarded-Proto check stops redirect loops when the site sits
+#    behind a proxy / CDN that terminates SSL before it reaches Apache.
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# =========================================================
+# ACCOUNT
+# Every page below is a single file that picks desktop vs mobile itself
+# (account.php, ticket.php, book.php, 404.php, index.php), so there is
+# one route per page, no separate mobile route.
+# =========================================================
+# /account/  and  /account/bookings/
+RewriteRule ^account/?$ account.php [L,QSA]
+RewriteRule ^account/bookings/?$ account.php [L,QSA]
+
+# =========================================================
+# ALL EVENTS (legacy, no city prefix)
+# =========================================================
+RewriteRule ^events/?$ events.php [L,QSA]
+
+# =========================================================
+# SINGLE EVENT (legacy)
+# =========================================================
+RewriteRule ^events/([^/]+)/?$ event.php?url=$1 [L,QSA]
+RewriteRule ^events1/([^/]+)/?$ mobile-event.php?url=$1 [L,QSA]
+
+# =========================================================
+# ARTISTS (legacy)
+# =========================================================
+RewriteRule ^artists/?$ artists.php [L,QSA]
+RewriteRule ^artists/([^/]+)/?$ artist.php?url=$1 [L,QSA]
+RewriteRule ^artists1/([^/]+)/?$ mobile-artist.php?url=$1 [L,QSA]
+
+# =========================================================
+# VENUES (legacy)
+# =========================================================
+RewriteRule ^venues/?$ venues.php [L,QSA]
+RewriteRule ^venues/([^/]+)/?$ venue.php?url=$1 [L,QSA]
+RewriteRule ^venues1/([^/]+)/?$ mobile-venue.php?url=$1 [L,QSA]
+
+# =========================================================
+# CATEGORIES (legacy)
+# =========================================================
+RewriteRule ^categories/?$ categories.php [L,QSA]
+RewriteRule ^categories/([^/]+)/?$ events.php?event_category=$1 [L,QSA]
+
+# =========================================================
+# BLOGS
+# =========================================================
+RewriteRule ^blog/?$ blogs.php [L,QSA]
+RewriteRule ^blog/([^/]+)/?$ blog.php?url=$1 [L,QSA]
+
+# =========================================================
+# OTHER EXISTING PAGES  ->  /book/{x}, /ticket/{ref}, etc.
+# =========================================================
+RewriteRule ^(book|book1|book3|page|confirm|single-categories|fetch_events|previews|ticket|pdf)/([^/]+)/?$ $1.php?url=$2 [L,QSA]
+
+# =========================================================
+# CITY-SCOPED ROUTES  ->  /{city-slug}/...
+# =========================================================
+
+# /{city}/events/
+RewriteRule ^([a-z0-9-]+)/events/?$ events.php?city=$1 [L,QSA]
+
+# /{city}/events/{event-slug}/
+RewriteRule ^([a-z0-9-]+)/events/([^/]+)/?$ event.php?url=$2&city=$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/events1/([^/]+)/?$ mobile-event.php?url=$2&city=$1 [L,QSA]
+
+# /{city}/artists/
+RewriteRule ^([a-z0-9-]+)/artists/?$ artists.php?city=$1 [L,QSA]
+
+# /{city}/artists/{artist-slug}/
+RewriteRule ^([a-z0-9-]+)/artists/([^/]+)/?$ artist.php?url=$2&city=$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/artists1/([^/]+)/?$ mobile-artist.php?url=$2&city=$1 [L,QSA]
+
+# /{city}/venues/
+RewriteRule ^([a-z0-9-]+)/venues/?$ venues.php?city=$1 [L,QSA]
+
+# /{city}/venues/{venue-slug}/
+RewriteRule ^([a-z0-9-]+)/venues/([^/]+)/?$ venue.php?url=$2&city=$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/venues1/([^/]+)/?$ mobile-venue.php?url=$2&city=$1 [L,QSA]
+
+# /{city}/categories/
+RewriteRule ^([a-z0-9-]+)/categories/?$ categories.php?city=$1 [L,QSA]
+
+# /{city}/categories/{category-slug}/
+RewriteRule ^([a-z0-9-]+)/categories/([^/]+)/?$ events.php?event_category=$2&city=$1 [L,QSA]
+
+# /{city}/account/  and  /{city}/account/bookings/
+# (the mobile app tab bar links here via hs_city_url, which had no route before)
+RewriteRule ^([a-z0-9-]+)/account/?$ account.php?city=$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/account/bookings/?$ account.php?city=$1 [L,QSA]
+
+# /{city}/book/{x}, /{city}/ticket/{ref}, etc.
+RewriteRule ^([a-z0-9-]+)/(book|book1|book3|page|confirm|ticket|pdf)/([^/]+)/?$ $2.php?url=$3&city=$1 [L,QSA]
+
+# =========================================================
+# EXTENSIONLESS PHP
+# Real, existing pages (about.php, contact.php, 404.php, etc.) always
+# win over the city catch-all below.
+# =========================================================
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+# =========================================================
+# CITY HOMEPAGE  ->  /{city-slug}/
+# Must stay last: only catches a bare single-segment path that did not
+# match a real file or a known route. index.php (via include/city.php)
+# validates the slug against tbl_cities and 404s if it isn't a real city.
+# =========================================================
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-z0-9-]+)/?$ index.php?city=$1 [L,QSA]
+
+# =========================================================
+# CUSTOM 404
+# =========================================================
+ErrorDocument 404 /404.php

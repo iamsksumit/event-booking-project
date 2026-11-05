@@ -1,0 +1,1968 @@
+[25-Nov-2024 22:42:53 UTC] PHP Warning:  Undefined variable $event_url in /home/highrzmr/public_html/data/validate_price.php on line 26
+[25-Nov-2024 23:03:43 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:03:43 UTC] Received client_price: 0
+[25-Nov-2024 23:03:43 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:07:00 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:07:00 UTC] Received client_price: 0
+[25-Nov-2024 23:07:00 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:13:10 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:13:10 UTC] Received client_price: 0
+[25-Nov-2024 23:13:10 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:15:03 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:15:03 UTC] Received client_price: 0
+[25-Nov-2024 23:15:03 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:15:03 UTC] Received tickets: 149
+[25-Nov-2024 23:16:58 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":0},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:16:58 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:16:58 UTC] Received client_price: 0
+[25-Nov-2024 23:16:58 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 0
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:16:58 UTC] Validation failed: Missing or invalid input data.
+[25-Nov-2024 23:17:58 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":0},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:17:58 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:17:58 UTC] Received client_price: 0
+[25-Nov-2024 23:17:58 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 0
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:17:58 UTC] Validation failed: Missing or invalid input data.
+[25-Nov-2024 23:19:49 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:19:49 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:19:49 UTC] Received client_price: 0
+[25-Nov-2024 23:19:49 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:19:49 UTC] Validation failed: Missing or invalid input data.
+[25-Nov-2024 23:20:39 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:20:39 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:20:39 UTC] Received client_price: 0
+[25-Nov-2024 23:20:39 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:20:39 UTC] Validation failed: Missing or invalid input data.
+[25-Nov-2024 23:21:53 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:21:53 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:21:53 UTC] Received client_price: 0
+[25-Nov-2024 23:21:53 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:21:53 UTC] Validation failed: Missing or invalid input data.
+[25-Nov-2024 23:24:12 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:24:12 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:24:12 UTC] Received client_price: 0
+[25-Nov-2024 23:24:12 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:24:12 UTC] Ticket IDs: 149
+[25-Nov-2024 23:24:12 UTC] Server Price (INR): 0
+[25-Nov-2024 23:24:12 UTC] Client Price (INR): 0
+[25-Nov-2024 23:24:40 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 1100
+)
+
+[25-Nov-2024 23:24:40 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:24:40 UTC] Received client_price: 1100
+[25-Nov-2024 23:24:40 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:24:40 UTC] Ticket IDs: 149
+[25-Nov-2024 23:24:40 UTC] Server Price (INR): 0
+[25-Nov-2024 23:24:40 UTC] Client Price (INR): 1100
+[25-Nov-2024 23:24:46 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 1100
+)
+
+[25-Nov-2024 23:24:46 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:24:46 UTC] Received client_price: 1100
+[25-Nov-2024 23:24:46 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:24:46 UTC] Ticket IDs: 149
+[25-Nov-2024 23:24:46 UTC] Server Price (INR): 0
+[25-Nov-2024 23:24:46 UTC] Client Price (INR): 1100
+[25-Nov-2024 23:25:16 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":0}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:25:16 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:25:16 UTC] Received client_price: 0
+[25-Nov-2024 23:25:16 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 0
+        )
+
+)
+
+[25-Nov-2024 23:25:16 UTC] Ticket IDs: 147,149
+[25-Nov-2024 23:25:16 UTC] Server Price (INR): 0
+[25-Nov-2024 23:25:16 UTC] Client Price (INR): 0
+[25-Nov-2024 23:27:55 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":0},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:27:55 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:27:55 UTC] Received client_price: 0
+[25-Nov-2024 23:27:55 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 0
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:27:55 UTC] Ticket IDs: 147,149
+[25-Nov-2024 23:27:55 UTC] Server Price (INR): 0
+[25-Nov-2024 23:27:55 UTC] Client Price (INR): 0
+[25-Nov-2024 23:32:50 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:32:50 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:32:50 UTC] Received client_price: 0
+[25-Nov-2024 23:32:50 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:32:50 UTC] Ticket IDs: 147,148,149
+[25-Nov-2024 23:32:50 UTC] Server Price (INR): 0
+[25-Nov-2024 23:32:50 UTC] Client Price (INR): 0
+[25-Nov-2024 23:33:12 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 50
+)
+
+[25-Nov-2024 23:33:12 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:33:12 UTC] Received client_price: 50
+[25-Nov-2024 23:33:12 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:33:12 UTC] Ticket IDs: 147,148,149
+[25-Nov-2024 23:33:12 UTC] Server Price (INR): 0
+[25-Nov-2024 23:33:12 UTC] Client Price (INR): 50
+[25-Nov-2024 23:33:22 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:33:22 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:33:22 UTC] Received client_price: 0
+[25-Nov-2024 23:33:22 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:33:22 UTC] Ticket IDs: 147,148,149
+[25-Nov-2024 23:33:22 UTC] Server Price (INR): 0
+[25-Nov-2024 23:33:22 UTC] Client Price (INR): 0
+[25-Nov-2024 23:36:19 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:36:19 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:36:19 UTC] Received client_price: 0
+[25-Nov-2024 23:36:19 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:36:19 UTC] Ticket IDs: 149
+[25-Nov-2024 23:36:19 UTC] Server Price (INR): 0
+[25-Nov-2024 23:36:19 UTC] Client Price (INR): 0
+[25-Nov-2024 23:36:37 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:36:37 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:36:37 UTC] Received client_price: 0
+[25-Nov-2024 23:36:37 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:36:37 UTC] Ticket IDs: 147,149
+[25-Nov-2024 23:36:37 UTC] Server Price (INR): 0
+[25-Nov-2024 23:36:37 UTC] Client Price (INR): 0
+[25-Nov-2024 23:36:48 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:36:48 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:36:48 UTC] Received client_price: 0
+[25-Nov-2024 23:36:48 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:36:48 UTC] Ticket IDs: 147,148,149
+[25-Nov-2024 23:36:48 UTC] Server Price (INR): 0
+[25-Nov-2024 23:36:48 UTC] Client Price (INR): 0
+[25-Nov-2024 23:37:03 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":2}}
+    [client_price] => 0
+)
+
+[25-Nov-2024 23:37:03 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[25-Nov-2024 23:37:03 UTC] Received client_price: 0
+[25-Nov-2024 23:37:03 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 2
+        )
+
+)
+
+[25-Nov-2024 23:37:03 UTC] Ticket IDs: 147,148,149
+[25-Nov-2024 23:37:03 UTC] Server Price (INR): 0
+[25-Nov-2024 23:37:03 UTC] Client Price (INR): 0
+[25-Nov-2024 23:37:36 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":1},"152":{"name":"Singal Male ","cost":2999,"qty":1}}
+    [client_price] => 9997
+)
+
+[25-Nov-2024 23:37:36 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[25-Nov-2024 23:37:36 UTC] Received client_price: 9997
+[25-Nov-2024 23:37:36 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:37:36 UTC] Ticket IDs: 150,151,152
+[25-Nov-2024 23:37:36 UTC] Server Price (INR): 9997
+[25-Nov-2024 23:37:36 UTC] Client Price (INR): 9997
+[25-Nov-2024 23:37:55 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":1},"152":{"name":"Singal Male ","cost":2999,"qty":1}}
+    [client_price] => 999
+)
+
+[25-Nov-2024 23:37:55 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[25-Nov-2024 23:37:55 UTC] Received client_price: 999
+[25-Nov-2024 23:37:55 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:37:55 UTC] Ticket IDs: 150,151,152
+[25-Nov-2024 23:37:55 UTC] Server Price (INR): 9997
+[25-Nov-2024 23:37:55 UTC] Client Price (INR): 999
+[25-Nov-2024 23:38:16 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":3},"151":{"name":"Singal Ladies ","cost":1999,"qty":4},"152":{"name":"Singal Male ","cost":2999,"qty":4}}
+    [client_price] => 34989
+)
+
+[25-Nov-2024 23:38:16 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[25-Nov-2024 23:38:16 UTC] Received client_price: 34989
+[25-Nov-2024 23:38:16 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 3
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 4
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 4
+        )
+
+)
+
+[25-Nov-2024 23:38:16 UTC] Ticket IDs: 150,151,152
+[25-Nov-2024 23:38:16 UTC] Server Price (INR): 34989
+[25-Nov-2024 23:38:16 UTC] Client Price (INR): 34989
+[25-Nov-2024 23:39:13 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":4},"151":{"name":"Singal Ladies ","cost":1999,"qty":3}}
+    [client_price] => 25993
+)
+
+[25-Nov-2024 23:39:13 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[25-Nov-2024 23:39:13 UTC] Received client_price: 25993
+[25-Nov-2024 23:39:13 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 4
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+)
+
+[25-Nov-2024 23:39:13 UTC] Ticket IDs: 150,151
+[25-Nov-2024 23:39:13 UTC] Server Price (INR): 25993
+[25-Nov-2024 23:39:13 UTC] Client Price (INR): 25993
+[25-Nov-2024 23:39:28 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"151":{"name":"Singal Ladies ","cost":1999,"qty":1}}
+    [client_price] => 1999
+)
+
+[25-Nov-2024 23:39:28 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[25-Nov-2024 23:39:28 UTC] Received client_price: 1999
+[25-Nov-2024 23:39:28 UTC] Received tickets: Array
+(
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+)
+
+[25-Nov-2024 23:39:28 UTC] Ticket IDs: 151
+[25-Nov-2024 23:39:28 UTC] Server Price (INR): 1999
+[25-Nov-2024 23:39:28 UTC] Client Price (INR): 1999
+[26-Nov-2024 05:42:47 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":9},"151":{"name":"Singal Ladies ","cost":1999,"qty":2},"152":{"name":"Singal Male ","cost":2999,"qty":1}}
+    [client_price] => 51988
+)
+
+[26-Nov-2024 05:42:47 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 05:42:47 UTC] Received client_price: 51988
+[26-Nov-2024 05:42:47 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 9
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 2
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 05:42:47 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 05:42:47 UTC] Server Price (INR): 51988
+[26-Nov-2024 05:42:47 UTC] Client Price (INR): 51988
+[26-Nov-2024 12:26:44 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:26:44 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:26:44 UTC] Received client_price: 0
+[26-Nov-2024 12:26:44 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:26:44 UTC] Ticket IDs: 147,148,149
+[26-Nov-2024 12:26:44 UTC] Server Price (INR): 0
+[26-Nov-2024 12:26:44 UTC] Client Price (INR): 0
+[26-Nov-2024 12:36:38 UTC] POST Data: Array
+(
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:36:38 UTC] Received event_id: 
+[26-Nov-2024 12:36:38 UTC] Received client_price: 0
+[26-Nov-2024 12:36:38 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:36:38 UTC] Validation failed: Missing or invalid input data.
+[26-Nov-2024 12:36:45 UTC] POST Data: Array
+(
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":3}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:36:45 UTC] Received event_id: 
+[26-Nov-2024 12:36:45 UTC] Received client_price: 0
+[26-Nov-2024 12:36:45 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:36:45 UTC] Validation failed: Missing or invalid input data.
+[26-Nov-2024 12:36:59 UTC] POST Data: Array
+(
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":3}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:36:59 UTC] Received event_id: 
+[26-Nov-2024 12:36:59 UTC] Received client_price: 0
+[26-Nov-2024 12:36:59 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:36:59 UTC] Validation failed: Missing or invalid input data.
+[26-Nov-2024 12:44:07 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:44:07 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:44:07 UTC] Received client_price: 0
+[26-Nov-2024 12:44:07 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:44:07 UTC] Ticket IDs: 149
+[26-Nov-2024 12:44:07 UTC] Server Price (INR): 0
+[26-Nov-2024 12:44:07 UTC] Client Price (INR): 0
+[26-Nov-2024 12:51:48 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":2}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:51:48 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:51:48 UTC] Received client_price: 0
+[26-Nov-2024 12:51:48 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 2
+        )
+
+)
+
+[26-Nov-2024 12:51:48 UTC] Ticket IDs: 149
+[26-Nov-2024 12:51:48 UTC] Server Price (INR): 0
+[26-Nov-2024 12:51:48 UTC] Client Price (INR): 0
+[26-Nov-2024 12:53:46 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:53:46 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:53:46 UTC] Received client_price: 0
+[26-Nov-2024 12:53:46 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:53:46 UTC] Ticket IDs: 149
+[26-Nov-2024 12:53:46 UTC] Server Price (INR): 0
+[26-Nov-2024 12:53:46 UTC] Client Price (INR): 0
+[26-Nov-2024 12:56:11 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:56:11 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:56:11 UTC] Received client_price: 0
+[26-Nov-2024 12:56:11 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:56:11 UTC] Ticket IDs: 147,149
+[26-Nov-2024 12:56:11 UTC] Server Price (INR): 0
+[26-Nov-2024 12:56:11 UTC] Client Price (INR): 0
+[26-Nov-2024 12:58:38 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 12:58:38 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 12:58:38 UTC] Received client_price: 0
+[26-Nov-2024 12:58:38 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 12:58:38 UTC] Ticket IDs: 147,149
+[26-Nov-2024 12:58:38 UTC] Server Price (INR): 0
+[26-Nov-2024 12:58:38 UTC] Client Price (INR): 0
+[26-Nov-2024 12:59:18 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":3},"151":{"name":"Singal Ladies ","cost":1999,"qty":3},"152":{"name":"Singal Male ","cost":2999,"qty":3}}
+    [client_price] => 29991
+)
+
+[26-Nov-2024 12:59:18 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 12:59:18 UTC] Received client_price: 29991
+[26-Nov-2024 12:59:18 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 3
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:59:18 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 12:59:18 UTC] Server Price (INR): 29991
+[26-Nov-2024 12:59:18 UTC] Client Price (INR): 29991
+[26-Nov-2024 12:59:29 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":3},"151":{"name":"Singal Ladies ","cost":1999,"qty":3},"152":{"name":"Singal Male ","cost":2999,"qty":3}}
+    [client_price] => 29991
+)
+
+[26-Nov-2024 12:59:29 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 12:59:29 UTC] Received client_price: 29991
+[26-Nov-2024 12:59:29 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 3
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:59:29 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 12:59:29 UTC] Server Price (INR): 29991
+[26-Nov-2024 12:59:29 UTC] Client Price (INR): 29991
+[26-Nov-2024 12:59:44 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":3},"151":{"name":"Singal Ladies ","cost":1999,"qty":3},"152":{"name":"Singal Male ","cost":2999,"qty":3}}
+    [client_price] => 299
+)
+
+[26-Nov-2024 12:59:44 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 12:59:44 UTC] Received client_price: 299
+[26-Nov-2024 12:59:44 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 3
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:59:44 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 12:59:44 UTC] Server Price (INR): 29991
+[26-Nov-2024 12:59:44 UTC] Client Price (INR): 299
+[26-Nov-2024 12:59:50 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":3},"151":{"name":"Singal Ladies ","cost":1999,"qty":3},"152":{"name":"Singal Male ","cost":2999,"qty":3}}
+    [client_price] => 299
+)
+
+[26-Nov-2024 12:59:50 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 12:59:50 UTC] Received client_price: 299
+[26-Nov-2024 12:59:50 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 3
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 12:59:50 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 12:59:50 UTC] Server Price (INR): 29991
+[26-Nov-2024 12:59:50 UTC] Client Price (INR): 299
+[26-Nov-2024 13:03:17 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":4}}
+    [client_price] => 19996
+)
+
+[26-Nov-2024 13:03:17 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 13:03:17 UTC] Received client_price: 19996
+[26-Nov-2024 13:03:17 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 4
+        )
+
+)
+
+[26-Nov-2024 13:03:17 UTC] Ticket IDs: 150
+[26-Nov-2024 13:03:17 UTC] Server Price (INR): 19996
+[26-Nov-2024 13:03:17 UTC] Client Price (INR): 19996
+[26-Nov-2024 13:03:46 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":3},"152":{"name":"Singal Male ","cost":2999,"qty":5}}
+    [client_price] => 25991
+)
+
+[26-Nov-2024 13:03:46 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 13:03:46 UTC] Received client_price: 25991
+[26-Nov-2024 13:03:46 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 3
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 5
+        )
+
+)
+
+[26-Nov-2024 13:03:46 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 13:03:46 UTC] Server Price (INR): 25991
+[26-Nov-2024 13:03:46 UTC] Client Price (INR): 25991
+[26-Nov-2024 13:04:26 UTC] POST Data: Array
+(
+    [event_id] => Saturday-Disco-Carnival-at-Skydeck-Mg-Road-1731921738-duplicate-67444637a0311
+    [tickets] => {"138":{"name":"Couples ","cost":0,"qty":3},"139":{"name":"Ladies ","cost":0,"qty":3},"140":{"name":"Male stag ","cost":0,"qty":6}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 13:04:26 UTC] Received event_id: Saturday-Disco-Carnival-at-Skydeck-Mg-Road-1731921738-duplicate-67444637a0311
+[26-Nov-2024 13:04:26 UTC] Received client_price: 0
+[26-Nov-2024 13:04:26 UTC] Received tickets: Array
+(
+    [138] => Array
+        (
+            [name] => Couples 
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [139] => Array
+        (
+            [name] => Ladies 
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [140] => Array
+        (
+            [name] => Male stag 
+            [cost] => 0
+            [qty] => 6
+        )
+
+)
+
+[26-Nov-2024 13:04:26 UTC] Ticket IDs: 138,139,140
+[26-Nov-2024 13:04:26 UTC] Server Price (INR): 0
+[26-Nov-2024 13:04:26 UTC] Client Price (INR): 0
+[26-Nov-2024 13:16:56 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1}}
+    [client_price] => 4999
+)
+
+[26-Nov-2024 13:16:56 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 13:16:56 UTC] Received client_price: 4999
+[26-Nov-2024 13:16:56 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 13:16:56 UTC] Ticket IDs: 150
+[26-Nov-2024 13:16:56 UTC] Server Price (INR): 4999
+[26-Nov-2024 13:16:56 UTC] Client Price (INR): 4999
+[26-Nov-2024 13:17:25 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":1},"152":{"name":"Singal Male ","cost":2999,"qty":1}}
+    [client_price] => 9997
+)
+
+[26-Nov-2024 13:17:25 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 13:17:25 UTC] Received client_price: 9997
+[26-Nov-2024 13:17:25 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 13:17:25 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 13:17:25 UTC] Server Price (INR): 9997
+[26-Nov-2024 13:17:25 UTC] Client Price (INR): 9997
+[26-Nov-2024 13:19:51 UTC] POST Data: Array
+(
+    [event_id] => Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+    [tickets] => {"133":{"name":"Ladies ","cost":0,"qty":9},"134":{"name":"Stag ","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 13:19:51 UTC] Received event_id: Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+[26-Nov-2024 13:19:51 UTC] Received client_price: 0
+[26-Nov-2024 13:19:51 UTC] Received tickets: Array
+(
+    [133] => Array
+        (
+            [name] => Ladies 
+            [cost] => 0
+            [qty] => 9
+        )
+
+    [134] => Array
+        (
+            [name] => Stag 
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 13:19:51 UTC] Ticket IDs: 133,134
+[26-Nov-2024 13:19:51 UTC] Server Price (INR): 0
+[26-Nov-2024 13:19:51 UTC] Client Price (INR): 0
+[26-Nov-2024 16:10:13 UTC] POST Data: Array
+(
+    [event_id] => Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+    [tickets] => {"134":{"name":"Stag ","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 16:10:13 UTC] Received event_id: Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+[26-Nov-2024 16:10:13 UTC] Received client_price: 0
+[26-Nov-2024 16:10:13 UTC] Received tickets: Array
+(
+    [134] => Array
+        (
+            [name] => Stag 
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 16:10:13 UTC] Ticket IDs: 134
+[26-Nov-2024 16:10:13 UTC] Server Price (INR): 0
+[26-Nov-2024 16:10:13 UTC] Client Price (INR): 0
+[26-Nov-2024 17:11:53 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":5}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 17:11:53 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 17:11:53 UTC] Received client_price: 0
+[26-Nov-2024 17:11:53 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 5
+        )
+
+)
+
+[26-Nov-2024 17:11:53 UTC] Ticket IDs: 147
+[26-Nov-2024 17:11:53 UTC] Server Price (INR): 0
+[26-Nov-2024 17:11:53 UTC] Client Price (INR): 0
+[26-Nov-2024 18:15:25 UTC] POST Data: Array
+(
+    [event_id] => Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+    [tickets] => {"132":{"name":"Couples ","cost":0,"qty":4},"133":{"name":"Ladies ","cost":0,"qty":2},"134":{"name":"Stag ","cost":0,"qty":2}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 18:15:25 UTC] Received event_id: Friday-BOLLYWOOD-Essence-at-DRAVA-Koramangala-1731795809-duplicate-67443e3d65a7b
+[26-Nov-2024 18:15:25 UTC] Received client_price: 0
+[26-Nov-2024 18:15:25 UTC] Received tickets: Array
+(
+    [132] => Array
+        (
+            [name] => Couples 
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [133] => Array
+        (
+            [name] => Ladies 
+            [cost] => 0
+            [qty] => 2
+        )
+
+    [134] => Array
+        (
+            [name] => Stag 
+            [cost] => 0
+            [qty] => 2
+        )
+
+)
+
+[26-Nov-2024 18:15:25 UTC] Ticket IDs: 132,133,134
+[26-Nov-2024 18:15:25 UTC] Server Price (INR): 0
+[26-Nov-2024 18:15:25 UTC] Client Price (INR): 0
+[26-Nov-2024 18:16:38 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":1},"152":{"name":"Singal Male ","cost":2999,"qty":1}}
+    [client_price] => 9997
+)
+
+[26-Nov-2024 18:16:38 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[26-Nov-2024 18:16:38 UTC] Received client_price: 9997
+[26-Nov-2024 18:16:38 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+    [152] => Array
+        (
+            [name] => Singal Male 
+            [cost] => 2999
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 18:16:38 UTC] Ticket IDs: 150,151,152
+[26-Nov-2024 18:16:38 UTC] Server Price (INR): 9997
+[26-Nov-2024 18:16:38 UTC] Client Price (INR): 9997
+[26-Nov-2024 18:22:07 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843
+    [tickets] => {"120":{"name":"Stags","cost":0,"qty":1},"121":{"name":"Couple","cost":0,"qty":1},"122":{"name":"Ladies","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 18:22:07 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843
+[26-Nov-2024 18:22:07 UTC] Received client_price: 0
+[26-Nov-2024 18:22:07 UTC] Received tickets: Array
+(
+    [120] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [121] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [122] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[26-Nov-2024 18:22:07 UTC] Ticket IDs: 120,121,122
+[26-Nov-2024 18:22:07 UTC] Server Price (INR): 0
+[26-Nov-2024 18:22:07 UTC] Client Price (INR): 0
+[26-Nov-2024 21:38:24 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":3},"149":{"name":"Stags","cost":0,"qty":3}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 21:38:24 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 21:38:24 UTC] Received client_price: 0
+[26-Nov-2024 21:38:24 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 21:38:24 UTC] Ticket IDs: 147,149
+[26-Nov-2024 21:38:24 UTC] Server Price (INR): 0
+[26-Nov-2024 21:38:24 UTC] Client Price (INR): 0
+[26-Nov-2024 21:38:49 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":3},"149":{"name":"Stags","cost":0,"qty":3}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 21:38:49 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 21:38:49 UTC] Received client_price: 0
+[26-Nov-2024 21:38:49 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 21:38:49 UTC] Ticket IDs: 147,149
+[26-Nov-2024 21:38:49 UTC] Server Price (INR): 0
+[26-Nov-2024 21:38:49 UTC] Client Price (INR): 0
+[26-Nov-2024 21:40:52 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":3},"149":{"name":"Stags","cost":0,"qty":3}}
+    [client_price] => 0
+)
+
+[26-Nov-2024 21:40:52 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[26-Nov-2024 21:40:52 UTC] Received client_price: 0
+[26-Nov-2024 21:40:52 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 3
+        )
+
+)
+
+[26-Nov-2024 21:40:52 UTC] Ticket IDs: 147,149
+[26-Nov-2024 21:40:52 UTC] Server Price (INR): 0
+[26-Nov-2024 21:40:52 UTC] Client Price (INR): 0
+[27-Nov-2024 06:03:57 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":2},"149":{"name":"Stags","cost":0,"qty":2}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 06:03:57 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 06:03:57 UTC] Received client_price: 0
+[27-Nov-2024 06:03:57 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 2
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 2
+        )
+
+)
+
+[27-Nov-2024 06:03:57 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 06:03:57 UTC] Server Price (INR): 0
+[27-Nov-2024 06:03:57 UTC] Client Price (INR): 0
+[27-Nov-2024 07:36:32 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 07:36:32 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 07:36:32 UTC] Received client_price: 0
+[27-Nov-2024 07:36:32 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 07:36:32 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 07:36:32 UTC] Server Price (INR): 0
+[27-Nov-2024 07:36:32 UTC] Client Price (INR): 0
+[27-Nov-2024 07:50:27 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":4},"148":{"name":"Couple","cost":0,"qty":4},"149":{"name":"Stags","cost":0,"qty":4}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 07:50:27 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 07:50:27 UTC] Received client_price: 0
+[27-Nov-2024 07:50:27 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 4
+        )
+
+)
+
+[27-Nov-2024 07:50:27 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 07:50:27 UTC] Server Price (INR): 0
+[27-Nov-2024 07:50:27 UTC] Client Price (INR): 0
+[27-Nov-2024 07:50:28 UTC] PHP Parse error:  Unmatched '}' in /home/highrzmr/public_html/data/data.php on line 139
+[27-Nov-2024 07:54:17 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":4},"148":{"name":"Couple","cost":0,"qty":4},"149":{"name":"Stags","cost":0,"qty":4}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 07:54:17 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 07:54:17 UTC] Received client_price: 0
+[27-Nov-2024 07:54:17 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 4
+        )
+
+)
+
+[27-Nov-2024 07:54:17 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 07:54:17 UTC] Server Price (INR): 0
+[27-Nov-2024 07:54:17 UTC] Client Price (INR): 0
+[27-Nov-2024 07:57:02 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 07:57:02 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 07:57:02 UTC] Received client_price: 0
+[27-Nov-2024 07:57:02 UTC] Received tickets: Array
+(
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 07:57:02 UTC] Ticket IDs: 149
+[27-Nov-2024 07:57:02 UTC] Server Price (INR): 0
+[27-Nov-2024 07:57:02 UTC] Client Price (INR): 0
+[27-Nov-2024 07:58:34 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":3},"148":{"name":"Couple","cost":0,"qty":4},"149":{"name":"Stags","cost":0,"qty":4}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 07:58:34 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 07:58:34 UTC] Received client_price: 0
+[27-Nov-2024 07:58:34 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 4
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 4
+        )
+
+)
+
+[27-Nov-2024 07:58:34 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 07:58:34 UTC] Server Price (INR): 0
+[27-Nov-2024 07:58:34 UTC] Client Price (INR): 0
+[27-Nov-2024 10:06:15 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 10:06:15 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 10:06:15 UTC] Received client_price: 0
+[27-Nov-2024 10:06:15 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 10:06:15 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 10:06:15 UTC] Server Price (INR): 0
+[27-Nov-2024 10:06:15 UTC] Client Price (INR): 0
+[27-Nov-2024 10:09:47 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"148":{"name":"Couple","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 10:09:47 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 10:09:47 UTC] Received client_price: 0
+[27-Nov-2024 10:09:47 UTC] Received tickets: Array
+(
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 10:09:47 UTC] Ticket IDs: 148
+[27-Nov-2024 10:09:47 UTC] Server Price (INR): 0
+[27-Nov-2024 10:09:47 UTC] Client Price (INR): 0
+[27-Nov-2024 10:16:41 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1}}
+    [client_price] => 4999
+)
+
+[27-Nov-2024 10:16:41 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[27-Nov-2024 10:16:41 UTC] Received client_price: 4999
+[27-Nov-2024 10:16:41 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 10:16:41 UTC] Ticket IDs: 150
+[27-Nov-2024 10:16:41 UTC] Server Price (INR): 4999
+[27-Nov-2024 10:16:41 UTC] Client Price (INR): 4999
+[27-Nov-2024 10:17:33 UTC] POST Data: Array
+(
+    [event_id] => This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+    [tickets] => {"150":{"name":"Couples ","cost":4999,"qty":1},"151":{"name":"Singal Ladies ","cost":1999,"qty":1}}
+    [client_price] => 6998
+)
+
+[27-Nov-2024 10:17:33 UTC] Received event_id: This-Friday-ARJUN-RAMPAL-Actor-Model-Live-at-Phoenix-Mall-of-Asia-1732570970
+[27-Nov-2024 10:17:33 UTC] Received client_price: 6998
+[27-Nov-2024 10:17:33 UTC] Received tickets: Array
+(
+    [150] => Array
+        (
+            [name] => Couples 
+            [cost] => 4999
+            [qty] => 1
+        )
+
+    [151] => Array
+        (
+            [name] => Singal Ladies 
+            [cost] => 1999
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 10:17:33 UTC] Ticket IDs: 150,151
+[27-Nov-2024 10:17:33 UTC] Server Price (INR): 6998
+[27-Nov-2024 10:17:33 UTC] Client Price (INR): 6998
+[27-Nov-2024 11:25:25 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"148":{"name":"Couple","cost":0,"qty":1}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 11:25:25 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 11:25:25 UTC] Received client_price: 0
+[27-Nov-2024 11:25:25 UTC] Received tickets: Array
+(
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+)
+
+[27-Nov-2024 11:25:25 UTC] Ticket IDs: 148
+[27-Nov-2024 11:25:25 UTC] Server Price (INR): 0
+[27-Nov-2024 11:25:25 UTC] Client Price (INR): 0
+[27-Nov-2024 11:47:10 UTC] POST Data: Array
+(
+    [event_id] => Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+    [tickets] => {"147":{"name":"Ladies","cost":0,"qty":1},"148":{"name":"Couple","cost":0,"qty":1},"149":{"name":"Stags","cost":0,"qty":2}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 11:47:10 UTC] Received event_id: Wednesday-SKIRT-Ladies-Night-at-Hydra-Club-Koramangala-1732346843-duplicate-674453deaa206
+[27-Nov-2024 11:47:10 UTC] Received client_price: 0
+[27-Nov-2024 11:47:10 UTC] Received tickets: Array
+(
+    [147] => Array
+        (
+            [name] => Ladies
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [148] => Array
+        (
+            [name] => Couple
+            [cost] => 0
+            [qty] => 1
+        )
+
+    [149] => Array
+        (
+            [name] => Stags
+            [cost] => 0
+            [qty] => 2
+        )
+
+)
+
+[27-Nov-2024 11:47:10 UTC] Ticket IDs: 147,148,149
+[27-Nov-2024 11:47:10 UTC] Server Price (INR): 0
+[27-Nov-2024 11:47:10 UTC] Client Price (INR): 0
+[27-Nov-2024 11:53:19 UTC] POST Data: Array
+(
+    [event_id] => Saturday-Big-Bollywood-Night-at-BIGG-DADDY-Koramangala-1732080198-duplicate-67443dace47f6
+    [tickets] => {"126":{"name":"Couples ","cost":0,"qty":3},"127":{"name":"Ladies ","cost":0,"qty":2},"128":{"name":"Stag","cost":0,"qty":4}}
+    [client_price] => 0
+)
+
+[27-Nov-2024 11:53:19 UTC] Received event_id: Saturday-Big-Bollywood-Night-at-BIGG-DADDY-Koramangala-1732080198-duplicate-67443dace47f6
+[27-Nov-2024 11:53:19 UTC] Received client_price: 0
+[27-Nov-2024 11:53:19 UTC] Received tickets: Array
+(
+    [126] => Array
+        (
+            [name] => Couples 
+            [cost] => 0
+            [qty] => 3
+        )
+
+    [127] => Array
+        (
+            [name] => Ladies 
+            [cost] => 0
+            [qty] => 2
+        )
+
+    [128] => Array
+        (
+            [name] => Stag
+            [cost] => 0
+            [qty] => 4
+        )
+
+)
+
+[27-Nov-2024 11:53:19 UTC] Ticket IDs: 126,127,128
+[27-Nov-2024 11:53:19 UTC] Server Price (INR): 0
+[27-Nov-2024 11:53:19 UTC] Client Price (INR): 0

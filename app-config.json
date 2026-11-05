@@ -1,0 +1,193 @@
+{
+  "target_url": "https://highspinn.com/indexapp",
+
+  "splash": {
+    "logo_url": "",
+    "background_color": "#FFFFFF",
+    "logo_size_dp": 140,
+        "duration_ms": 2000
+
+  },
+
+  "launcher_icon": {
+    "enabled": true,
+    "variant": "default"
+  },
+
+  "theme": {
+    "primary_color": "#1A1A2E",
+    "accent_color": "#FF6B00",
+    "header_icon_color": "#FFFFFF",
+    "bottom_nav_icon_color": "#8A8A8A",
+    "bottom_nav_selected_icon_color": "#FFFFFF",
+    "drawer_icon_color": "#333333",
+    "drawer_text_color": "#333333",
+    "rtl": false,
+    "dark_mode": "auto",
+    "toolbar_gradient": { "colors": ["#1A1A2E", "#3A3A5E"], "begin": "topLeft", "end": "bottomRight" },
+    "bottom_nav_gradient": null,
+    "fab_gradient": { "colors": ["#FF6B00", "#FF3D00"], "begin": "topLeft", "end": "bottomRight" },
+    "drawer_header_gradient": { "colors": ["#1A1A2E", "#3A3A5E"], "begin": "topLeft", "end": "bottomRight" }
+  },
+
+  "header": {
+    "enabled": false,
+    "logo_url": "",
+    "title": "Highspinn",
+    "icons": [
+      { "id": "login", "type": "link", "icon": "ic_login", "url": "https://highspinn.com/login" }
+    ]
+  },
+
+  "drawer_menu": {
+    "enabled": false,
+    "title": "Highspinn",
+    "items": [
+      { "title": "Home", "icon": "ic_home", "url": "https://highspinn.com" },
+      { "title": "My Bookings", "icon": "ic_bookings", "url": "https://highspinn.com/bookings" },
+      { "title": "Offers", "icon": "ic_offer", "url": "https://highspinn.com/offers" },
+      { "title": "Share App", "icon": "ic_share", "action": "share" },
+      { "title": "Rate Us", "icon": "ic_star", "action": "rate" },
+      { "title": "About", "icon": "ic_info", "url": "https://highspinn.com/about" }
+    ]
+  },
+
+  "bottom_nav": {
+    "enabled": false,
+    "items": [
+      { "title": "Home", "icon": "ic_home", "url": "https://highspinn.com" },
+      { "title": "Events", "icon": "ic_events", "url": "https://highspinn.com/events" },
+      { "title": "Offers", "icon": "ic_offer", "url": "https://highspinn.com/offers" },
+      { "title": "Profile", "icon": "ic_profile", "url": "https://highspinn.com/profile" }
+    ]
+  },
+
+  "footer": { "enabled": true },
+
+  "fab": {
+    "enabled": false,
+    "style": "single",
+    "icon": "ic_whatsapp",
+    "action": "url",
+    "url": "https://wa.me/10000000000"
+  },
+
+  "search_bar": {
+    "enabled": true,
+    "search_base_url": "https://highspinn.com/search",
+    "query_param": "q",
+    "show_in": ["header"]
+  },
+
+  "preloader": {
+    "enabled": true,
+    "image_url": "https://highspinn.com/img/preloader1.gif",
+    "background_color": "#fff",
+    "size_dp": 140
+  },
+
+  "fullscreen_mode": { "enabled": true, "hide_status_bar": true },
+
+  "no_internet": {
+    "background_color": "#FFFFFF",
+    "title": "No Internet Connection",
+    "message": "Please check your connection and try again.",
+    "button_text": "Try Again",
+    "exit_text": "Exit",
+    "image_url": ""
+  },
+
+  "exit_popup": {
+    "enabled": true,
+    "title": "Leave the app?",
+    "message": "Are you sure you want to exit?",
+    "positive_button_text": "Exit",
+    "negative_button_text": "Cancel",
+    "background_color": "#FFFFFF"
+  },
+
+  "web_content": {
+    "hide_site_header": true,
+    "hide_site_footer": true,
+    "site_header_selector": "header, .site-header, #header, .hideonapp, #hideonapp",
+    "site_footer_selector": "footer, .site-footer, #footer",
+    "reset_spacing": true,
+    "extra_css": "",
+    "download_extensions": ["pdf", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "zip", "csv"]
+  },
+
+  "onboarding": {
+    "enabled": false,
+    "slides": [
+      { "title": "Welcome to Highspinn", "description": "Everything you need, in one app.", "image_url": "" },
+      { "title": "Stay Updated", "description": "Get instant alerts on offers and events.", "image_url": "" },
+      { "title": "Book in Seconds", "description": "Fast, secure, and simple.", "image_url": "" }
+    ]
+  },
+
+  "deep_link": { "scheme": "highspinn" },
+
+  "onesignal": {
+    "enabled": true,
+    "app_id": "aabe672e-5670-49c8-babb-43abca15e08f"
+  },
+
+  "admob": {
+    "enabled": false,
+    "banner_ad_unit": "ca-app-pub-5240593570140284/5519478960",
+    "interstitial_ad_unit": "ca-app-pub-5240593570140284/1890215981",
+    "show_interstitial_every_n_pages": 1
+  },
+
+  "in_app_message": {
+    "enabled": false,
+    "message_id": "welcome-2026-083",
+    "title": "New feature!",
+    "body": "You can now track your orders in real time.",
+    "image_url": "https://highspinn.com/img/preloader1.gif",
+    "url": "https://highspinn.com/bangalore/events1/SUPER-SATURDAY-BOLLYWOOD-NYT-AT-RISM-CLUB1789391706",
+    "link_text": "View",
+    "button_text": "Got it"
+  },
+
+  "gps": {
+    "enabled": true
+  },
+
+  "user_agent": "",
+
+  "language": { "query_param": "lang" },
+
+  "languages": [
+    { "code": "en", "label": "English", "rtl": false },
+    { "code": "hi", "label": "हिन्दी (Hindi)", "rtl": false },
+    { "code": "ar", "label": "العربية (Arabic)", "rtl": true }
+  ],
+
+  "ui_strings": {
+    "en": {
+      "search_hint": "Search…",
+      "select_language": "Select Language",
+      "no_internet_title": "No Internet Connection",
+      "no_internet_message": "Please check your connection and try again.",
+      "no_internet_button": "Try Again",
+      "no_internet_exit": "Exit",
+      "exit_title": "Leave the app?",
+      "exit_message": "Are you sure you want to exit?",
+      "exit_positive": "Exit",
+      "exit_negative": "Cancel"
+    },
+    "ar": {
+      "search_hint": "بحث…",
+      "select_language": "اختر اللغة",
+      "no_internet_title": "لا يوجد اتصال بالإنترنت",
+      "no_internet_message": "يرجى التحقق من اتصالك والمحاولة مرة أخرى.",
+      "no_internet_button": "أعد المحاولة",
+      "no_internet_exit": "خروج",
+      "exit_title": "مغادرة التطبيق؟",
+      "exit_message": "هل أنت متأكد أنك تريد الخروج؟",
+      "exit_positive": "خروج",
+      "exit_negative": "إلغاء"
+    }
+  }
+}
