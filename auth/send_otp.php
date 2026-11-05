@@ -70,11 +70,7 @@ echo json_encode(['success' => true, 'message' => 'OTP sent to +91 ' . $phone]);
 function hs_send_otp_sms($phone, $otp) {
 
     // Prefer API key from config.php
-    $api_key = defined('FAST2SMS_API_KEY')
-        ? FAST2SMS_API_KEY
-        : "m52gpELkAJxVSvBGIlnaOrzuRj6FciftdDTWybM7wQPe089ZKXWfn8mJU3pawNy1qrPQoGXeL0Ddhug2";
-
-    // DLT-approved template ID
+ template ID
     $message_id = "222642";
 
     // DLT template variables:
@@ -82,15 +78,7 @@ function hs_send_otp_sms($phone, $otp) {
     // {#var#} = Validity
     $variables_values = $otp . "|5 minutes";
 
-    $smsUrl = "https://www.fast2sms.com/dev/bulkV2?"
-        . "authorization=" . urlencode($api_key)
-        . "&route=dlt"
-        . "&sender_id=HSPlNN"
-        . "&message=" . urlencode($message_id)
-        . "&variables_values=" . urlencode($variables_values)
-        . "&flash=0"
-        . "&numbers=" . urlencode($phone);
-
+    
     $curl = curl_init();
 
     curl_setopt_array($curl, [
