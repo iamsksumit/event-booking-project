@@ -60,9 +60,6 @@ if (!empty($errors)) {
 // hardcoded here. Rotate the secret key below in the Cashfree
 // dashboard since it has been exposed in plain text — treat it as
 // compromised.
-// ---------------------------------------------------------------
-$appId     = '1081617b360f85d26552c7bd15b7161801';
-$secretKey = 'cfsk_ma_prod_adf16439cb74aad7126fba41fa66565c_b4fabb60';
 
 // Generate unique order ID
 $orderId    = 'HS' . time() . rand(1000, 9999);
